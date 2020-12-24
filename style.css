@@ -90,3 +90,7 @@ li {
 .first {
 	text-align-last: left;
 }
+
+@-ms-viewport{
+  width: device-width;
+}
